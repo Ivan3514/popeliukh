@@ -1,9 +1,43 @@
-!DOCTYPE html
-<html>
+<!DOCTYPE html>
+<html lang="ru">
 <head>
-<title>
-</title>
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="иконка.jpg">
+  <meta charset="utf-8">
 </head>
-<body>
-</body>
-</html>
+ <body>
+     <header class="site-header">
+     <div id="demotext">Мой сайт</div>
+     
+     </header>
+  <img src="image.png"> 
+  <p>орплрп <marquee style='width: 30%; color: black;'><b>"Работают теги"</b></marquee></p> 
+  <h1>щгроинпл</h1>
+  <u>аврнекогпшпншглн</u>
+  <em>ывпаитопашгшкрнкыгнйоолрщ</em>
+  <strong>ывпаитопашгшкрнкыгнйоолрщ</strong>
+  <pre>ывпаитопашгшкрнкыгнйоолрщ</pre>
+  <small>ывпаитопашгшкрнкыгнйоолрщ</small>
+  <h2>ывпаитопашгшкрнкыгнйоолрщ</h2>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 400" width="200" height="200">
+  <rect x="80" y="60" width="250" height="250" rx="20" style="fill:red; stroke:black; fill-opacity:0.7" />
+  <rect x="180" y="110" width="250" height="250" rx="40" style="fill:blue; stroke:black; fill-opacity:0.5;" />
+  </svg>
+  <ol>ывпаитопашгшкрнкыгнйоолрщ</ol>
+  <li>ывпаитопашгшкрнкыгнйоолрщ</li>
+   
+  <p class="highlight">ывпаитопашгшкрнкыгнйоолрщ</p> 
+  
+  <p><a href="https://html-css-js.com/">помощь</a></p>
+  <p><a href="https://colorscheme.ru/">генератор цветов</a></p>
+  <p><a href="https://dewiar.com/">помощь 2</a></p>
+  <p><a href="https://myneuralnetworks.ru/">генератор иконок</a></p>
+  <p><a href="https://ilim24.ru/gallery/noviy/Ust-Ilimsk_6047.jpg">Усть-Илимск</a></p>
+  <p><a href="https://fusionbrain.ai/">Нейросеть</a></p>
+  <p>примеры картинкок нейросети:</p>
+  <img src="картинка1.png">
+  <img src="картинка2.png">
+  <img src="картинка3.png">
+ </body>
+ </html>
